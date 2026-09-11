@@ -1,0 +1,29 @@
+# Test output
+output/
+dist/
+build/
+tmp/
+temp/
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
